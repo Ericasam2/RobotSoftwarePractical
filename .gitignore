@@ -1,2 +1,3 @@
 Cpp/.vscode
 CMakeFiles
+*.o
